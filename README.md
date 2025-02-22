@@ -1,2 +1,2 @@
-### TODO
-- sample SSDP Flood dataset (my computer does not have enough ram)
+### Note
+Dataseta in `data` folder are compressed, cause I am too lazy to use git-lfs
